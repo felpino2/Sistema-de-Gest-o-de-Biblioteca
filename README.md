@@ -1,7 +1,11 @@
-# Sistema-de-Gest-o-de-Biblioteca
+# Sistema-de-Gestão-de-Biblioteca
 Um sistema que permita o gerenciamento
 de livros, usuários e empréstimos em uma biblioteca.
+
+
 Funcionalidades:
+
+
 ● Classes:
   ○ Livro: título, autor, ISBN, disponibilidade.
   ○ Usuário: nome, ID, histórico de empréstimos.
@@ -9,6 +13,8 @@ Funcionalidades:
   adicionais.
   ○ Empréstimo: data de empréstimo, data de
   devolução, status.
+
+  
 ● Conceitos de POO:
   ○ Herança: Funcionário herda de Usuário.
   ○ Polimorfismo: métodos como
